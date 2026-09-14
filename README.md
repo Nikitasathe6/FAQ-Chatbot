@@ -2,7 +2,7 @@
 
 An AI-powered FAQ chatbot that answers common college admission questions using Natural Language Processing (NLP), TF-IDF Vectorization, and Cosine Similarity.
 
-This project was developed as part of my **CodeAlpha Artificial Intelligence Internship**.
+
 
 ---
 
